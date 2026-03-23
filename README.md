@@ -2,18 +2,18 @@
 A 12 switch macropad with a rotary encoder and  .91" oled screen.
 
 ## BOM
- 12x MX Style Switches
- 4x M3x5mx4mm heatset inserts
- 3D Printed case
- 12x Blank DSA keycaps
- 1x seeed studios xiao rp2040 sma version
- 1x EC11 rotary encoder
- 12x Through-hole 1N4148 Diodes
- 1x knob
- 4x SK6812 MINI-E LEDs
- 12x MX Style Switches
- 1x 0.91" oled screen
- 4x M3x16mm screws
+ - 12x MX Style Switches
+ - 4x M3x5mx4mm heatset inserts
+ - 3D Printed case
+ - 12x Blank DSA keycaps
+ - 1x seeed studios xiao rp2040 sma version
+ - 1x EC11 rotary encoder
+ - 12x Through-hole 1N4148 Diodes
+ - 1x knob
+ - 4x SK6812 MINI-E LEDs
+ - 12x MX Style Switches
+ - 1x 0.91" oled screen
+ - 4x M3x16mm screws
 
 # What will i use it for
 I would like to use it for different shortcuts for video games and listening for music on spotify 
